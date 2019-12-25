@@ -1,0 +1,2 @@
+export const ADD_COUNTER = 'META/ADD_COUNTER'
+export const REMOVE_COUNTER = 'META/REMOVE_COUNTER'
